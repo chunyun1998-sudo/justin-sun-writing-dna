@@ -1,4 +1,4 @@
-# 孙割小长文版写作风格 (sunge-narrative-style)
+# 孙割小长文版写作风格 (justin-sun-writing-dna)
 
 > 基于 Justin Sun (孙宇晨) X 长文《我的女友景甜》的写作 DNA 蒸馏与风格复刻 skill
 
