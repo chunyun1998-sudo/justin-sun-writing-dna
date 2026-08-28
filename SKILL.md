@@ -1,5 +1,5 @@
 ---
-name: sunge-narrative-style
+name: justin-sun-writing-dna
 description: 按孙宇晨（Justin Sun）X长文的叙事风格写作。极短句、一句一段、对话驱动、物件承载情感、数字做锚点、留白即节奏。当用户要求"用孙割风格写""按孙宇晨风格写一篇""孙割小长文"时触发。适用于情感叙事、个人经历重构、商业人物故事化写作。
 ---
 
